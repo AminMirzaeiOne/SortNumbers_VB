@@ -24,4 +24,4 @@ It receives five numbers from the user and if those numbers are positive and do 
 4 - View the result
 
 <h2>📷 Screenshots</h2>
-<img width="675" alt="Capture" src="https://github.com/user-attachments/assets/16e3e619-0830-4c90-8a68-06cba6e7c3a4">
+<img width="675" alt="Capture10" src="https://github.com/user-attachments/assets/7281b1ad-20f2-41da-abed-bcc62c366525">
